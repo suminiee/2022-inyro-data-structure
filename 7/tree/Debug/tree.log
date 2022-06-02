@@ -1,0 +1,4 @@
+﻿  Tree.c
+C:\2022\이니로\7\tree\Tree.c(12): warning C4716: 'TreCreateNode': 값을 반환해야 합니다.
+C:\2022\이니로\7\tree\Tree.c(22): warning C4716: 'TreCreateNode2': 값을 반환해야 합니다.
+  tree.vcxproj -> C:\2022\이니로\7\tree\Debug\tree.exe
